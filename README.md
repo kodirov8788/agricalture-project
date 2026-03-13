@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌾 Smart Agriculture Portal — Next.js 16 & Tailwind v4
 
-## Getting Started
+An experimental, cutting-edge platform for agricultural management, exploring the latest features of **Next.js 16 (Canary)** and the revolutionary **Tailwind CSS v4** styling engine.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript%205.x-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## 🔬 Exploratory Features
+
+This project serves as a **Tier-1 Engineering Lab** to test the future of the web:
+
+- **Next.js 16 Canary Integration**: Testing the latest App Router optimizations for high-performance data processing.
+- **Tailwind v4 Styling**: Implementing the new CSS-first configuration and zero-runtime performance improvements.
+- **React 19 Concurrent Mode**: Utilizing the latest streaming and hydration features for ultra-fast agricultural data visualization.
+- **Modern UI Patterns**: Leveraging `lucide-react` and `clsx` for a clean, accessible design system tailored for industrial use.
+
+---
+
+## 🏗️ Stack
+
+- **Framework**: Next.js 16 (App Router)
+- **Library**: React 19
+- **Style**: Tailwind CSS v4 (Alpha/Beta)
+- **Language**: TypeScript 5.7+
+- **Icons**: Lucide React
+- **Config**: PostCSS 8+ / ESLint 9+
+
+---
+
+## ⚙️ Development
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install     # Install experimental packages
+npm run dev     # Launch local development
+npm run lint    # Strict code quality audit
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📈 Goals
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Performance Benchmarking**: Comparing Tailwind v4 render speeds vs v3.
+- **Data Visualization**: Real-time monitoring of crop data using server components.
+- **Schema Validation**: Type-safe agricultural metrics via TypeScript.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+MIT — Developed by [Kodirov Dev](https://github.com/kodirov8788)
